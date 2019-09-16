@@ -10,9 +10,9 @@
 
 
 
-
+https://github.com/fengsha886/FGWeather/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%20Xs%20Max%20-%202019-09-16%20at%2014.20.11.png
 ### 图片展示
-![Image text](https://fengsha886.github.io/FGWeather/Simulator%20Screen%20Shot%20-%20iPhone%20Xs%20Max%20-%202019-09-16%20at%2014.20.11.png)
+![Image text](https://fengsha886.github.io/FGWeather.github.io/Simulator%20Screen%20Shot%20-%20iPhone%20Xs%20Max%20-%202019-09-16%20at%2014.20.11.png)
 
 ![Image text](https://fengsha886.github.io/DFBooking.github.io/Simulator%20Screen%20Shot%20-%20iPhone%20Xs%20Max%20-%202019-09-12%20at%2010.55.20.png)
 
