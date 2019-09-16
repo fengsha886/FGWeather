@@ -11,10 +11,9 @@
 ### 图片展示
 ![Image text](https://fengsha886.github.io/FGWeather.gitub.io/home.png)
 
-![Image text](https://fengsha886.github.io/FGWeather.github.io/detail.png)
+![Image text](https://fengsha886.github.io/FGWeather.gitub.io/detail.png)
 
-
-![Image text](https://fengsha886.github.io/FGWeather.github.io/7dya.png)
+![Image text](https://fengsha886.github.io/FGWeather.gitub.io/7dya.png)
 ## 关于我们
 我们欢迎使用者提出自己的意见
 
